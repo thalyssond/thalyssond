@@ -30,7 +30,6 @@
 
 <div align="center">
   <p>🎓 Systems Analysis and Development student at IFPI (Federal Institute of Piauí).</p>
-  <p>🔬 Researcher at <a href="https://github.com/LabirasIFPI" target="_blank">LABIRAS</a>, focused on games and software innovation.</p>
   <p>💻 Passionate about coding, technology, and always eager to learn and collaborate.</p>
 </div>
 
