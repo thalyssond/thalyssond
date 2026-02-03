@@ -35,4 +35,26 @@
 
 </div>
 
+<div align="center">
+
+  <h3>📬 Let's Connect</h3>
+
+  <p>
+    I am currently open to <strong>internship opportunities</strong>, freelance projects, and collaborations.<br>
+    I am always available to <strong>discuss ideas and technologies</strong>, so whether you have a question about my projects or just want to say hi, feel free to reach out!
+  </p>
+
+  <br>
+
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:SEUEMAIL@GMAIL.COM">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+</div>
+
+<br>
 <br>
