@@ -18,7 +18,7 @@
 
 - 💻 Scalable & Impactful Software: I develop solutions across the entire spectrum—from personal initiatives to enterprise-grade systems. Whether building complex backend architectures or simple tools, my priority is code security and reliability. I am driven by a mission to create technology that not only solves technical challenges but genuinely empowers people, bridging the gap between digital logic and real-world needs.
 
-- 🔧 IoT & Embedded Integration: I venture beyond the digital screen to explore the **integrity of embedded systems**. Leveraging **C/C+** and **Python**, I prioritize the **security and integrity of firmware**. I am driven by the fascination of making the physical world programmable, creating **tangible solutions** that not only collect data but actively improve and automate the environments around us.
+- 🔧 IoT & Embedded Integration: I venture beyond the digital screen to explore the **intersection of hardware and software**. Leveraging **C/C+** and **Python**, I prioritize the **integrity of embedded systems**. I am driven by the fascination of making the physical world programmable, creating **tangible solutions** that not only collect data but actively improve and automate the environments around us.
 
 <div align="center">
 
